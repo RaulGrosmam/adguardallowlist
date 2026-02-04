@@ -3,3 +3,4 @@
 ||pt.stripchat.com^
 ||ru.stripchat.com^
 ||en.stripchat.com^
+||strpst.com^
