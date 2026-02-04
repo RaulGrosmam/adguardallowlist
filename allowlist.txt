@@ -1,0 +1,5 @@
+||br.stripchat.com^
+||creative.stripchat.com^
+||pt.stripchat.com^
+||ru.stripchat.com^
+||en.stripchat.com^
